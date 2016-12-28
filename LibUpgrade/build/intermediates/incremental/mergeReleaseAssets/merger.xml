@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\djf\newfolder\demo\SmartAppUpdates-master\ApkPatchLibrarySample\LibUpgrade\assets"/><source path="F:\djf\newfolder\demo\SmartAppUpdates-master\ApkPatchLibrarySample\LibUpgrade\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="F:\djf\newfolder\demo\SmartAppUpdates-master\ApkPatchLibrarySample\LibUpgrade\build-types\release\assets"/></dataSet></merger>

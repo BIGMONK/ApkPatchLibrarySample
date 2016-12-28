@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\djf\newfolder\demo\SmartAppUpdates-master\ApkPatchLibrarySample\LibUpgrade\libs"><file name="armeabi-v7a/libbsdiff_utils.so" path="F:\djf\newfolder\demo\SmartAppUpdates-master\ApkPatchLibrarySample\LibUpgrade\libs\armeabi-v7a\libbsdiff_utils.so"/></source></dataSet><dataSet config="debug"><source path="F:\djf\newfolder\demo\SmartAppUpdates-master\ApkPatchLibrarySample\LibUpgrade\build-types\debug\jniLibs"/></dataSet></merger>

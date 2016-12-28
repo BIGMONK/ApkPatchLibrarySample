@@ -1,0 +1,4 @@
+#Wed Dec 28 16:53:32 CST 2016
+base.0=F\:\\djf\\newfolder\\demo\\SmartAppUpdates-master\\ApkPatchLibrarySample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\djf\\newfolder\\demo\\SmartAppUpdates-master\\ApkPatchLibrarySample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

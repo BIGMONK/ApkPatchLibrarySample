@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <string name="cancel">取消</string>
+    <string name="check_error">检查更新失败</string>
+    <string name="download_error">下载失败</string>
+    <string name="downloading">正在下载中(%1$d%%/%2$d%%)</string>
+    <string name="install_error">安装失败</string>
+    <string name="no_update">已经是最新版本</string>
+    <string name="update">更新</string>
+    <string name="update_tips">更新提示</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
